@@ -1,6 +1,11 @@
 let s ='Testyantra'
-s.replace
+
+s2= s.replaceAll('t' , 'T')
+console.log(s2);
+
 let s1 = s.toLocaleLowerCase
+
+
 let c=""
 for (let i = 0; i < s.length; i++) {
     

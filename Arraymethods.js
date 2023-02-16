@@ -1,4 +1,4 @@
-let ar =[1,2,3,4,5]
+let ar =['hello','hi','hh','uu','oo']
 let arr = [0,9,8,7,6]
 
 console.log(ar);
@@ -9,7 +9,7 @@ console.log(ar);
 //console.log(ar.push(arr));
 //console.log(ar.pop());
 //console.log(ar.shift());
-// console.log(ar.unshift(10));
+ //console.log(ar.unshift(10));
 // console.log(ar.unshift([100,200]));
 // console.log(ar.unshift(arr));
 //console.log(ar.indexOf(5));
@@ -24,9 +24,9 @@ console.log(ar);
 //console.log(ar.sort((a,b)=>{a-b})); //sort in accesending order
 //console.log(ar.sort((a,b)=>b-a)); //sort in descending order
 //console.log(ar.toString());
-//console.log(ar.slice(3));
-//console.log(ar.splice(4));
-//console.log(ar.lastIndexOf(5));
+//console.log(ar.slice(0));
+//console.log(ar.splice(1));
+//console.log(ar.lastIndexOf('oo'));
 // console.log(ar.findIndex(5));
 // console.log(ar.c);
 //console.log(ar.reverse());

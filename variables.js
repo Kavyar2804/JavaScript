@@ -1,8 +1,8 @@
-    console.log(a);   
-    var a 
-    a = 100;
-    var a =200
-    console.log(a);
+    // console.log(a);   
+    // var a 
+    // a = 100;
+    // var a =200
+    // console.log(a);
 
     //  console.log(x);    
     // var x 

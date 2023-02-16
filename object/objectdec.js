@@ -33,3 +33,8 @@ for (const alldata in bankdetails) {
     console.log(alldata + " " + bankdetails[alldata] );
 }
 
+// //for of not itteratable
+// for (const alldata of bankdetails) {
+    
+//     console.log(alldata + " " + bankdetails[alldata] );
+// }
